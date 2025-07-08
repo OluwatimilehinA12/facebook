@@ -13,12 +13,15 @@ django-imagekit==5.0.0
 django-jazzmin==3.0.1
 django-static-fontawesome==6.5.2.0
 django-widget-tweaks==1.5.0
+gunicorn==23.0.0
 humanize==4.11.0
 idna==3.10
+packaging==25.0
 pilkit==3.0
 pillow==11.1.0
 psycopg2-binary==2.9.10
 PyPDF2==3.0.1
+python-decouple==3.8
 python-dotenv==1.0.1
 qrcode==8.0
 requests==2.32.3
